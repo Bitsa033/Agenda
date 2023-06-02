@@ -1,0 +1,1 @@
+php artisan key:generate  #pour generer la clef de l'application
